@@ -1,0 +1,20 @@
+Retail-Sales-Forecasting-using-Machine-Learning/
+│
+├── data/
+│   ├── retail_sales.csv
+│
+├── notebooks/
+│   ├── Retail_Sales_Forecasting.ipynb
+│
+├── models/
+│   ├── sales_forecasting_model.pkl
+│
+├── images/
+│   ├── sales_trend.png
+│   ├── forecast_result.png
+│
+├── app.py
+├── requirements.txt
+├── README.md
+├── .gitignore
+└── LICENSE
